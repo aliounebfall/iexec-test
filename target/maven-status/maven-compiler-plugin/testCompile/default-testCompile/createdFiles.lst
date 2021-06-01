@@ -1,0 +1,6 @@
+com/example/iexec/test/repository/BlockchainTaskRepositoryTest.class
+com/example/iexec/test/service/Web3ServiceTest.class
+com/example/iexec/test/ApplicationTests.class
+com/example/iexec/test/repository/LocalTaskRepositoryTest.class
+com/example/iexec/test/service/BlockchainTaskServiceTest.class
+com/example/iexec/test/service/LocalTaskServiceTest.class

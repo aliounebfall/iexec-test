@@ -1,0 +1,11 @@
+com/example/iexec/test/repository/LocalTaskRepository.class
+com/example/iexec/test/controller/LocalTaskController.class
+com/example/iexec/test/repository/BlockchainTaskRepository.class
+com/example/iexec/test/Application.class
+com/example/iexec/test/service/Web3Service.class
+com/example/iexec/test/controller/BlockchainTaskController.class
+com/example/iexec/test/service/LocalTaskService.class
+com/example/iexec/test/service/BlockchainTaskService$1.class
+com/example/iexec/test/service/BlockchainTaskService.class
+com/example/iexec/test/model/LocalTask.class
+com/example/iexec/test/model/BlockchainTask.class
