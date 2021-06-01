@@ -6,7 +6,7 @@ To run the application you will need :
 
 * **MongoDB Docker** : A Mongo docker container. Pull the docker image *mongo*.
 
-* **Go-Ethereum** : An Ethereum node, running locally on your host, with imported unlocked accounts. Run the node and listen to connections on the Docker Host.
+* **Go-Ethereum** : An Ethereum node, running locally on your host, with imported unlocked accounts. Run the node on goerli (chainId : 5) and listen to connections on the Docker Host.
 
 Pull the image **docker pull aliounebfall/iexec**, and run it with the following command : 
 
