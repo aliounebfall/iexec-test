@@ -22,7 +22,7 @@ class BlockchainTaskServiceTest {
         //When
         final int blockchainTaskCount = underTest.getBlockchainTaskCount();
         //Then
-        assertThat(blockchainTaskCount).isNotNull();
+        assertThat(blockchainTaskCount).isNotEqualTo(-1);
         System.out.println(blockchainTaskCount);
     }
 
